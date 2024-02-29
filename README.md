@@ -1,9 +1,9 @@
 ### Hi there I am Yusra Saeed a college junior currently doing my bachelors in Computer Science from UET, Peshawar.👋
 
 <!--
-**YusraSaeed/YusraSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YusraSaeed/YusraSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on building a webiste using MERN Stack...
 - 🌱 I’m currently learning AI and Machine Learning...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
